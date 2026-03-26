@@ -7,3 +7,7 @@ I'll try to use vim and other commands later as well.
 Now I'll try to stage and commit with one single command.
 
 Change the variable name for URL and then push to remote.
+
+-----------------
+
+This update is made by collaborator.
